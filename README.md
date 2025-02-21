@@ -26,7 +26,9 @@ I'm a passionate Full Stack Developer focused on crafting clean, user-friendly w
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=expensive1i&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expensive1i&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## Let's Connect
