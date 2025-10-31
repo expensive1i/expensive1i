@@ -119,7 +119,7 @@
 <div align="center">
   
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expensive1i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=ffffff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expensive1i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=ffffff&langs_count=6&hide_progress=false" alt="Top Languages" />
   
 </div>
 
