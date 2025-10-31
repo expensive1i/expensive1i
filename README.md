@@ -14,7 +14,7 @@
   <a href="mailto:emmanueljohnapeh@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+2348060585934">
+  <a href="https://wa.me/2348060585934">
     <img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -105,8 +105,11 @@
 
 <div align="center">
   
+  <!-- GitHub Trophy -->
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=expensive1i&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" />
   
   <!-- Contribution Graph -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=expensive1i&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
@@ -176,7 +179,7 @@ Modern, responsive portfolio showcasing my work
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-john-apeh-002ba6252)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emmanuelportfolio-olive.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanueljohnapeh@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2348060585934)
+  [![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348060585934)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/expensive1i)
   
 </div>
