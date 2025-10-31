@@ -109,7 +109,7 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=expensive1i&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff" alt="GitHub Stats" />
   
   <!-- Contribution Graph -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=expensive1i&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
