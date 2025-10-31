@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Emmanuel+John+Apeh;Full+Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Emmanuel+John+Apeh;Full+Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -109,17 +109,17 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=expensive1i&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
   
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=expensive1i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" />
   
   <!-- Contribution Graph -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=expensive1i&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=expensive1i&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expensive1i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=expensive1i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=ffffff" alt="Top Languages" />
   
 </div>
 
@@ -194,7 +194,7 @@ Modern, responsive portfolio showcasing my work
   
   ---
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Coding+is+an+art%2C;Let's+create+masterpieces+together!+✨" alt="Inspirational Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Coding+is+an+art%2C;Let's+create+masterpieces+together!+✨" alt="Inspirational Text" />
   
 </div>
 
@@ -202,7 +202,7 @@ Modern, responsive portfolio showcasing my work
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=expensive1i&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=expensive1i&theme=tokyo-night&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&hide_border=true)
   
 </div>
 
