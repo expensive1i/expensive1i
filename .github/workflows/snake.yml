@@ -4,31 +4,26 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        id: snake-gif
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
         with:
           github_user_name: expensive1i
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
-
-      - name: Push to GitHub
-        uses: peaceiris/actions-gh-pages@v3
+          outputs: |
+            dist/github-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          destination_dir: output
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
