@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-💡 **Passionate Full Stack Developer** with expertise in building scalable, efficient, and user-centric web applications
+💡 **Passionate Full Stack Software Engineer** with expertise in building scalable, efficient, and user-centric web applications
 
 🔭 **Currently:** Contributing to enterprise-level applications  
 🌱 **Learning:** Advanced cloud architecture and microservices  
